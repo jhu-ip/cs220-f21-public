@@ -1,0 +1,8 @@
+//Chance Simpson
+//csimps22
+
+//one.c
+#include <stdio.h>
+
+int main(void) { 
+  printf("The first prize goes to Jennifer.\n");
